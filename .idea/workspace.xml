@@ -2,69 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54a8fb93-1228-4907-ae77-b168a9dec020" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/avatar_1.jpg_1587808389904.JPEG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/avatar_1.jpg_1587808407223.JPEG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/avatar_1.jpg_1587833076262.JPEG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/avatar_1.jpg_1587833094662.JPEG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/avatar_1.jpg_1587833389158.JPEG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/avatar_1.jpg_1587833402614.JPEG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/avatar_123.JPG_1587804598338.JPEG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/avatar_123.JPG_1587820047586.JPEG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/avatar_2 - Copy.jpg_1587819601953.JPEG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/avatar_2 - Copy.jpg_1587820125602.JPEG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/avatar_3 - Copy.jpg_1587805664232.JPEG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/avatar_4 - Copy.jpg_1587804578465.JPEG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/avatar_4 - Copy.jpg_1587838002871.JPEG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/avatar_4.jpg_1587826636041.JPEG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/avatar_5.jpg_1587803459715.JPEG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/avatar_5.jpg_1587808364101.JPEG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/avatar_6.jpg_1587802604899.JPEG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/avatar_6.jpg_1587826893073.JPEG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/avatar_6.jpg_1587832499496.JPEG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/avatar_6.jpg_1587838016809.JPEG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/avatar_Asus.jpg_1587894136923.JPEG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/avatar_Dell.jpg_1587893976206.JPEG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/avatar_Dell.jpg_1587894272053.JPEG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/avatar_Dell.jpg_1588170630314.JPEG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/avatar_Dell.jpg_1588171385295.JPEG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/avatar_Dell.jpg_1588171847360.JPEG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/avatar_Dell.jpg_1588171868998.JPEG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/avatar_Dell.jpg_1588171926241.JPEG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/avatar_Dell2.jpg_1588170646153.JPEG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/avatar_Dell2.jpg_1588170749838.JPEG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/avatar_Dell2.jpg_1588170794358.JPEG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/avatar_Dell2.jpg_1588170833666.JPEG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/avatar_Dell2.jpg_1588170851682.JPEG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/avatar_Dell2.jpg_1588170866650.JPEG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/avatar_Dell2.jpg_1588170874486.JPEG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/avatar_Dell2.jpg_1588171161212.JPEG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/avatar_HP.jpg_1587893935756.JPEG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/avatar_HP.jpg_1588170562360.JPEG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/avatar_HP.jpg_1588171776871.JPEG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/avatar_HP2.jpg_1588192049671.JPEG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/avatar_Xiaomi.jpg_1587894047304.JPEG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/avatar_Xiaomi.jpg_1587894176776.JPEG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/avatar_Xiaomi.jpg_1587894292755.JPEG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/avatar_Xiaomi.jpg_1588171294305.JPEG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/avatar_Xiaomi.jpg_1588171328348.JPEG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/avatar_acnes-creamy-wash-kem-rua-mat-tri-mun-acnes.jpg_1587801909956.JPEG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/avatar_acnes-creamy-wash-kem-rua-mat-tri-mun-acnes.jpg_1587819617081.JPEG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/avatar_acnes-creamy-wash-kem-rua-mat-tri-mun-acnes.jpg_1587832477140.JPEG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/avatar_idealpad.jpg_1587894230876.JPEG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/avatar_idealpad.jpg_1587894250966.JPEG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/avatar_lapop2.jpg_1587894009459.JPEG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/avatar_lapop2.jpg_1588171066475.JPEG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/avatar_lapop2.jpg_1588171078138.JPEG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/avatar_lapop2.jpg_1588171085436.JPEG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/avatar_lapop2.jpg_1588171732731.JPEG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/avatar_lapop2.jpg_1588171813075.JPEG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/avatar_lapop2.jpg_1588171859591.JPEG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/avatar_lapop2.jpg_1588192077961.JPEG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/avatar_tt.jpg_1587826870694.JPEG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/avatar_wdw.jpg_1587803440589.JPEG" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,7 +78,7 @@
       <workItem from="1588122664223" duration="24756000" />
       <workItem from="1594444313564" duration="634000" />
       <workItem from="1594656541722" duration="43000" />
-      <workItem from="1596902074244" duration="971000" />
+      <workItem from="1596902074244" duration="1174000" />
     </task>
     <servers />
   </component>
@@ -152,21 +90,21 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="602" y="191" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1594656582763" />
-    <state width="1308" height="211" key="GridCell.Tab.0.bottom" timestamp="1596902619545">
+    <state width="1308" height="211" key="GridCell.Tab.0.bottom" timestamp="1596903251468">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1308" height="211" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1596902619545" />
-    <state width="1308" height="211" key="GridCell.Tab.0.center" timestamp="1596902619544">
+    <state width="1308" height="211" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1596903251468" />
+    <state width="1308" height="211" key="GridCell.Tab.0.center" timestamp="1596903251467">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1308" height="211" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1596902619544" />
-    <state width="1308" height="211" key="GridCell.Tab.0.left" timestamp="1596902619544">
+    <state width="1308" height="211" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1596903251467" />
+    <state width="1308" height="211" key="GridCell.Tab.0.left" timestamp="1596903251467">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1308" height="211" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1596902619544" />
-    <state width="1308" height="211" key="GridCell.Tab.0.right" timestamp="1596902619545">
+    <state width="1308" height="211" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1596903251467" />
+    <state width="1308" height="211" key="GridCell.Tab.0.right" timestamp="1596903251467">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1308" height="211" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1596902619545" />
+    <state width="1308" height="211" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1596903251467" />
   </component>
 </project>
