@@ -1,20 +1,33 @@
 {
   "name": "mob401assign",
   "version": "1.0.0",
-  "description": "day la lab assign",
+
+  "engines": {
+    "node": "12.14.1",
+    "npm": "6.13.4"
+  },
+
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
 
-  "keywords": [
-    "example",
-    "heroku"
-  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoangld7550/web403.git"
+  },
+
 
   "author": "Hoangldph07550",
   "license": "ISC",
+
+  "bugs": {
+    "url": "https://github.com/hoangld7550/web403.git"
+  },
+
+  "homepage": "https://github.com/hoangld7550/web403.git",
+
   "dependencies": {
     "express": "^4.17.1",
     "express-handlebars": "^3.1.0",
@@ -22,9 +35,10 @@
     "multer": "^1.4.2"
   },
 
-  "engines": {
-    "node": "12.14"
-  }
+  "keywords": [
+    "example",
+    "heroku"
+  ],
 
-
+  "description": "day la lab assign"
 }
